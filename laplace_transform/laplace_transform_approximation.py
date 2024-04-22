@@ -1,6 +1,6 @@
 import sys
-sys.path.insert(0, r"C:\Users\Ciara\OneDrive\Desktop\programming_thingy\transforms\taylor_series\taylor_series.py")
-sys.path.insert(0, r"C:\Users\Ciara\OneDrive\Desktop\programming_thingy\tools\polynomial_tools.py")
+sys.path.insert(0, r"insert the path to the taylor series file here")
+sys.path.insert(0, r"insert the path to the polynomial tools file here")
 
 from taylor_series import *
 from math import sin, cos
